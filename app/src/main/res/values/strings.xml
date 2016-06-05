@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PEDANG</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>BERANDA</item>
+        <item>DATA KEMISKINAN</item>
+        <item>PETA</item>
+        <item>TENTANG</item>
+    </string-array>
+
+    <string-array name="nav_drawer_icons">
+        <item>@drawable/ic_list</item>
+        <item>@drawable/ic_menu</item>
+        <item>@drawable/ic_avatar_inside_a_circle</item>
+        <item>@drawable/ic_avatar</item>
+    </string-array>
+
+    <string name="tentang_app">Tentang Aplikasi</string>
+    <string name="desc_app_one"> Pedang App merupakan kependekan dari Aplikasi Pendeteksi Data Kemiskinan Warga. </string>
+    <string name="desc_app_two"> Pedang App hadir untuk mendukung program pemerintah dalam mengentaskan kemiskinan dengan mengedepankan
+    data warga miskin yang valid dan akurat sehingga setiap program pemerintah yang ditujukan kepada rakyat miskin dapat tersalurkan
+    kepada yang benar - benar berhak.</string>
+    <string name="desc_app_three"> Aplikasi terdiri dari dua pilihan mode, yakni
+        terjemahan Inggris - Indonesia dan Indonesia - Inggris. </string>
+    <string name="desc_app_four"> Aplikasi ini juga disertai dengan kuis yang dapat
+    menguji tingkat penguasaan hafalan kalian. </string>
+</resources>
